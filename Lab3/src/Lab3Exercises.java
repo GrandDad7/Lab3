@@ -8,6 +8,6 @@ public class Lab3Exercises {
 		myFrame.setSize(200, 200);
         MyPanelClass myPanel = new MyPanelClass();
         myFrame.getContentPane().add(myPanel);
-		myFrame.setVisible(true);
+		myFrame.setVisible(true); 
 	}
 } 
